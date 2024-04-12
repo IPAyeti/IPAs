@@ -1,23 +1,19 @@
 {
-  "name": "My Example Source",
-  "identifier": "org.provenance-emu.AltStore",
+  "name": "Eduard Prigoana's Modified App Source",
+  "identifier": "lol.prigoana.source",
   "sourceURL": "https://provenance-emu.com/apps.json",
   "apps": [
     {
       "name": "My Example App",
-      "bundleIdentifier": "com.example.myapp",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Eduard Prigoana",
+      "subtitle": "Youtube Modified",
       "version": "19.14.3",
-      "versionDate": "2022-12-30T00:01:00-05:00",
       "versionDescription": "Initial Release",
       "downloadURL": "https://github.com/PrigoanaEd/IPA/raw/main/compiled_apps/Youtube+.ipa",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-      "tintColor": "#5CA399",
-      "size": 77010038,
-      "permissions": [],
-      "screenshotURLs": []
+      "localizedDescription": "Youtube Modified",
+      "iconURL": "https://github.com/PrigoanaEd/IPA/blob/main/icons/youtube.png?raw=true",
+      "tintColor": "#5CA399"
     }
   ],
   "news": [],
