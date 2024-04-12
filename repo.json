@@ -23,7 +23,9 @@
                 {
                     "version": "19.14.3",
                     "downloadURL": "https://github.com/PrigoanaEd/IPA/raw/main/compiled_apps/Youtube+.ipa",
-                    "localizedDescription": "Initial Release",
-                },
-            ],
+                    "localizedDescription": "Initial Release"
+                }
+            ]
         }
+    ]
+}
