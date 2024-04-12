@@ -1,0 +1,19 @@
+{
+  "name": "Prigoana",
+  "identifier": "com.prigoana.source",
+  "apps": [
+    {
+      "beta": false,
+      "name": "Youtube+",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Eduard Prigoana",
+      "subtitle": "Modified Youtube",
+      "version": "v19.14.3",
+      "versionDescription": "Update base IPA",
+      "downloadURL": "https://github.com/PrigoanaEd/IPA/raw/main/compiled_apps/Youtube+.ipa?download=",
+      "localizedDescription": "Modified Youtube App",
+      "iconURL": "https://github.com/PrigoanaEd/IPA/blob/main/icons/youtube.png?raw=true",
+      "tintColor": "9b54fd"
+    }
+  ]
+}
