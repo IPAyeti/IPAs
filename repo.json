@@ -1,5 +1,7 @@
 {
-  "name": "Prigoana's App Source",
+  "name": "Eduard Prigoana's App Source",
+  "iconURL": "https://avatars.githubusercontent.com/u/77606385",
+  "tintColor": "ff14e8",
   "identifier": "lol.PrigoanaEd.apps",
   "apps": [
     {
@@ -14,13 +16,37 @@
       "downloadURL": "https://github.com/PrigoanaEd/IPA/raw/main/compiled_apps/Youtube+.ipa",
       "localizedDescription": "The YouTube app modified by Eduard Prigoana",
       "iconURL": "https://raw.githubusercontent.com/PrigoanaEd/IPA/main/icons/youtube.png",
-      "tintColor": "ff14e8",
+      "tintColor": "7ac7ff",
       "size": 127095027,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/screenshots/uYouPlus/uyouplus3.jpeg",
         "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/screenshots/uYouPlus/uyouplus4.jpeg",
         "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/screenshots/uYouPlus/uyouplus5.jpeg"
       ]
+    }
+    {
+      "beta": false,
+      "name": "Spotify+",
+      "bundleIdentifier": "com.PrigoanaEd.SpotCPlusPlus",
+      "developerName": "Eduard Prigoana",
+      "subtitle": "Spotify Modified",
+      "version": "v1.1.3",
+      "versionDate": "2024-03-16T18:12:00+02:00",
+      "versionDescription": "Initial Release",
+      "downloadURL": "https://github.com/PrigoanaEd/IPA/raw/main/compiled_apps/Spotify+.ipa",
+      "localizedDescription": "The Spotify app modified by Eduard Prigoana",
+      "iconURL": "https://raw.githubusercontent.com/PrigoanaEd/IPA/main/icons/spotify.png",
+      "tintColor": "7ac7ff",
+      "size": 48093000,
+      "screenshotURLs": [
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Settings%201.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Settings%202.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Car%20Mode.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20PlayList%20SS.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Library%20View%20SS.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Lyrics%20Screen.png"
+      ],
     }
   ]
 }
