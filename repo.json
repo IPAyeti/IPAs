@@ -1,21 +1,26 @@
 {
-  "name": "Eduard Prigoana's Modified App Source",
-  "identifier": "lol.prigoana.source",
-  "sourceURL": "https://provenance-emu.com/apps.json",
+  "name": "Prigoana's App Source",
+  "identifier": "lol.PrigoanaEd.apps",
   "apps": [
     {
-      "name": "My Example App",
+      "beta": false,
+      "name": "YouTube+",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Eduard Prigoana",
-      "subtitle": "Youtube Modified",
-      "version": "19.14.3",
+      "subtitle": "YouTube Modified",
+      "version": "v19.14.3",
+      "versionDate": "2024-03-16T18:12:00+02:00",
       "versionDescription": "Initial Release",
       "downloadURL": "https://github.com/PrigoanaEd/IPA/raw/main/compiled_apps/Youtube+.ipa",
-      "localizedDescription": "Youtube Modified",
-      "iconURL": "https://github.com/PrigoanaEd/IPA/blob/main/icons/youtube.png?raw=true",
-      "tintColor": "#5CA399"
+      "localizedDescription": "The YouTube app modified by Eduard Prigoana",
+      "iconURL": "https://raw.githubusercontent.com/PrigoanaEd/IPA/main/icons/youtube.png",
+      "tintColor": "ff14e8",
+      "size": 127095027,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/screenshots/uYouPlus/uyouplus3.jpeg",
+        "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/screenshots/uYouPlus/uyouplus4.jpeg",
+        "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/screenshots/uYouPlus/uyouplus5.jpeg"
+      ]
     }
-  ],
-  "news": [],
-  "userInfo": {}
+  ]
 }
